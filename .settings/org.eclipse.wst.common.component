@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="chronic kidney disease analysis">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="chronic_kidney_disease_analysis"/>
+        <property name="java-output-path" value="/chronic kidney disease analysis/build/classes"/>
+    </wb-module>
+</project-modules>
